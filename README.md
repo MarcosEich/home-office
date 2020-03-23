@@ -7,4 +7,5 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 
 # Livros
 Remote: Office Not Required -> https://www.amazon.com.br/Remote-Office-Not-Required-English-ebook/dp/B00C0ALZ0W
+
 É um dos livros mais famosos sobre o assunto escrito pelos fundadores do Basecamp
