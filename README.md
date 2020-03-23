@@ -10,3 +10,7 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 
 ## Guias
 **[Guia para trabalhar a distância](https://www.officeless.cc/remotos):** Um guia para trabalhar a distância em situações de emergência feito pela Officeless
+
+## Ferramentas
+**[Slack](https://slack.com/intl/pt-br/):** Quer tc?
+
