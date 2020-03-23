@@ -5,6 +5,8 @@ Muita gente gosta muito desse modelo de trabalho e algumas empresas trabalham 10
 
 Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é que estamos organizando essa coleção de recursos para quem quer saber mais sobre como fazer home office.
 
+# [Melhor coisa a se fazer nesse momento!](https://www.youtube.com/watch?v=80FqzAcfDuc)
+
 ## Livros
 **[Remote: Office Not Required](https://www.amazon.com.br/Remote-Office-Not-Required-English-ebook/dp/B00C0ALZ0W):** É um dos livros mais famosos sobre o assunto escrito pelos fundadores do Basecamp
 
