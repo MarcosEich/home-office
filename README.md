@@ -14,3 +14,4 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 ## Ferramentas
 **[Slack](https://slack.com/intl/pt-br/):** Quer tc?
 
+**[Microsoft Teams](https://products.office.com/pt-br/microsoft-teams/group-chat-software):** Slack versão Microsoft
