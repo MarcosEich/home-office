@@ -16,5 +16,7 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 
 **[Microsoft Teams](https://products.office.com/pt-br/microsoft-teams/group-chat-software):** Slack versão Microsoft
 
+**[Workplace](https://work.workplace.com/):** Se você não está satisfeito em dar apenas os seus dados pessoais pro Facebook você pode também compartilhar os dados da sua empresa.
+
 ## Cursos
 **[Trabalho Remoto](https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade):** Trabalho Remoto: Colaboração, foco e produtividade
