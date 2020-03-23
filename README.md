@@ -18,5 +18,7 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 
 **[Workplace](https://work.workplace.com/):** Se você não está satisfeito em dar apenas os seus dados pessoais pro Facebook você pode também compartilhar os dados da sua empresa.
 
+**[Zoom](https://zoom.us/pt-pt/meetings.html):** Ótima ferrametne de videoconferência. Dizem que espiona os apps que você usa. Se você já usa o Workplace não tem problema 🤷‍♂️
+
 ## Cursos
 **[Trabalho Remoto](https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade):** Trabalho Remoto: Colaboração, foco e produtividade
