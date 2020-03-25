@@ -38,5 +38,10 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 
 [Dropbox](https://www.dropbox.com/pt_BR/): Tá na lista mais pelo valor histórico do que pela relavância atual
 
+[diagrams.net](https://www.diagrams.net/): Crie diagramas com qualquer um em qualquer lugar.
+
 ## Cursos
 [Trabalho Remoto](https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade): Trabalho Remoto: Colaboração, foco e produtividade
+
+## Dev
+[DailyBot](https://www.dailybot.co/): Ajuda times de desenvolvimento a compartilhar o que estão fazendo sem a necessidade de uma reunião.
