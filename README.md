@@ -12,6 +12,8 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 
 [Managing Oneself](https://www.amazon.com.br/Managing-Oneself-Harvard-Business-Classics-ebook/dp/B00TXS49UW)
 
+[The Year Without Pants](https://www.amazon.com.br/Year-Without-Pants-WordPress-com-English-ebook/dp/B00DVJXI4M)
+
 ## Guias
 [Guia para trabalhar a distância](https://www.officeless.cc/remotos): Um guia para trabalhar a distância em situações de emergência feito pela Officeless
 
