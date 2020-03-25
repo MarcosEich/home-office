@@ -25,6 +25,12 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 
 [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/) [EN]: Guia para trabalho remoto do Zapier com vários recursos tanto para gerentes quando para geridos.
 
+[Virtual team building activities](https://www.atlassian.com/blog/teamwork/virtual-team-building-activities-remote-teams) [EN]: Como times remotos podem se conectar
+
+[How To Embrace Remote Work](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf) [EN]: Um guia do Trello falando como sobre estratégias de trabalho remoto
+
+[Teamwork takes work](https://www.atlassian.com/remote) [EN]: Uma coleção de recursos sobre trabalho remoto da Atlassian
+
 ## Ferramentas
 [G Suite](https://gsuite.google.com.br/intl/pt-BR/): Email e Compartilhamento de documentos profissional para emrpesas se você tem menos de 50 anos.
 
