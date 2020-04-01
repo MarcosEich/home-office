@@ -31,6 +31,8 @@ Com a ideia de ajudar quem, de uma hora pra outra, pecisou trabalhar em casa é 
 
 [Teamwork takes work](https://www.atlassian.com/remote) [EN]: Uma coleção de recursos sobre trabalho remoto da Atlassian
 
+[Dicas para trabalho remoto do Asana](https://blog.asana.com/2020/03/asana-tips-work-from-anywhere/#close) [EN]: 5 dicas para trabalho remoto do time do Asana
+
 ## Ferramentas
 [G Suite](https://gsuite.google.com.br/intl/pt-BR/): Email e Compartilhamento de documentos profissional para emrpesas se você tem menos de 50 anos.
 
